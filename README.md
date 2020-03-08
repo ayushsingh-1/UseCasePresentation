@@ -6,7 +6,5 @@ Assignment 2: Contains more detailed Use Case Specifications, new Use Case diagr
 
 Assignment 3 & 4: Contains revised versions of all diagrams, new use case specifications and revised models.
 
-Assignment 5: 
-
-Contains revised, concise and publicy viewable version of all the diagrams and Use Cases.
+Assignment 5: Contains revised, concise and publicy viewable version of all the diagrams and Use Cases.
 Review of Group 15 slideset, part of assignment 5 has been updated.
